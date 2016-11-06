@@ -35,7 +35,7 @@ $config = [
              'class' => 'Swift_SmtpTransport',
              'host' => 'smtp.mandrillapp.com',  // e.g. smtp.mandrillapp.com or smtp.gmail.com
              'username' => 'emelyan.a@outlook.com',
-             'password' => 'jKppT3k2RP_oU71MNuOxgA',
+             'password' => 'xxxxxx',
              'port' => '587', // Port 25 is a very common port too
              'encryption' => 'tls', // It is often used, check your provider or mail server specs
          ],
